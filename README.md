@@ -1,7 +1,7 @@
 ### Eai, eu sou o Gabriel Fernando
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 📚 Estou atualmente estudando Java, Programação Orientada a Objetos e Sistemas Operacionais
+- 📚 Estou atualmente estudando Programação Orientada a Objetos, Java e Sistemas Operacionais
 - 💻 Atualmente sou estágiario de TI na BRQ Digital Solutions
 
  <div align="left">
