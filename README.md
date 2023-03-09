@@ -2,6 +2,8 @@
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 📚 Estou atualmente estudando Java, Programação Orientada a Objetos e Sistemas Operacionais
+- 💻 Atualmente sou estágiario de TI na BRQ Digital Solutions
+
  <div align="left">
   <a href="https://github.com/gabrielfernando23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielfernando23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,5 +14,5 @@
   <img align="center" alt="Gabriel-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-SQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
- <img align="center" alt="Gabriel-Java" height="70" width="70" src="">
+ <img align="center" alt="Gabriel-Java" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
 </div>
