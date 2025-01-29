@@ -1,7 +1,6 @@
 ### Eai, eu sou o Gabriel Fernando
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Atualmente sou estágiario de TI na BRQ Digital Solutions
+- 💻 Atualmente sou Técnico de sistemas júnior na BRQ Digital Solutions
 
  <div align="left">
   <a href="https://github.com/gabrielfernando23">
