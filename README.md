@@ -1,6 +1,6 @@
 ### Eai, eu sou o Gabriel Fernando
 
-- 💻 Atualmente sou Técnico de sistemas júnior na BRQ Digital Solutions
+- 💻 Atualmente sou Desenvolvedor Pleno na ACT Digital
 
  <div align="left">
   <a href="https://github.com/gabrielfernando23">
